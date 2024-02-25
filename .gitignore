@@ -1,0 +1,6 @@
+.venv/*
+ch3/*.sqlite3
+ch3/mysite/__pycache__/*
+ch3/polls/__pycache__/*
+ch3/polls/migrations/__pycache__/*
+*.code-workspace
